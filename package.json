@@ -1,0 +1,26 @@
+{
+  "name": "criptografia-julio-cesar",
+  "version": "1.0.0",
+  "description": "desafio do codenation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-watch": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creamynebula/criptografia-julio-cesar.git"
+  },
+  "author": "Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creamynebula/criptografia-julio-cesar/issues"
+  },
+  "homepage": "https://github.com/creamynebula/criptografia-julio-cesar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
