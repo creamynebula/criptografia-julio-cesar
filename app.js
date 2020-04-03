@@ -2,7 +2,6 @@ const fetch = require('node-fetch'); //para fazer os requests http
 const sha1 = require('js-sha1');  //para computar o resumo criptográfico
 const fs = require('fs'); //para escrever arquivos
 const FormData = require('form-data'); //para enviar request no formato de form-data
-const filePath = require("path");
 
 
 let url ='https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=118530a27b5193eeb557dcd87dc07e5f13e5a353';
